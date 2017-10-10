@@ -4,6 +4,8 @@
 
 面向移动端的轻量级前端component，提供易用、可靠的解决方案。
 
+legolib源码 [https://github.com/yyued/legolib](https://github.com/yyued/legolib)
+
 * 支持CMD/AMD/CommonJS规范，同时支持`script`外链引入使用；
 * 移动优先；
 
