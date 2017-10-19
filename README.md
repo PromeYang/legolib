@@ -18,6 +18,7 @@ legolib源码 [https://github.com/yyued/legolib](https://github.com/yyued/legoli
 |anti-hijack|防HTTP劫持|
 |wechat-share|微信分享JS SDK封装|
 |tab-view|移动端tabView导航栏|
+|tab-view-swiper|移动端tabView导航栏，支持swiper滑动|
 |image-loader|轻巧的图片预加载|
 |loading-controller|更快更好用的laoding|
 |page-slider|页面滚动控制器|
